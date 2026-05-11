@@ -1,4 +1,4 @@
-
+Enhance Gimp for macOS with Gimp for macOS updated Plugin: masking tools & AI upscaling, the #1 plugin. Includes masking tools and AI upscaling for a smoother and more creative
 
 
 
